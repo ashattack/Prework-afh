@@ -38,4 +38,10 @@
 
 .styledFont {
     color:blue;
+    font-family: Arial;
+    
+}
+
+#styledImage {
+    border: 5px solid purple;
 }
